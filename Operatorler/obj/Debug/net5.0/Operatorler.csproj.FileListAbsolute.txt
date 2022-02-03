@@ -1,0 +1,16 @@
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\bin\Debug\net5.0\Operatorler.exe
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\bin\Debug\net5.0\Operatorler.deps.json
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.json
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.dev.json
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\bin\Debug\net5.0\Operatorler.dll
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\bin\Debug\net5.0\ref\Operatorler.dll
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\bin\Debug\net5.0\Operatorler.pdb
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\obj\Debug\net5.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfo.cs
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\obj\Debug\net5.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\obj\Debug\net5.0\Operatorler.dll
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\obj\Debug\net5.0\ref\Operatorler.dll
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\obj\Debug\net5.0\Operatorler.pdb
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\obj\Debug\net5.0\Operatorler.genruntimeconfig.cache
+C:\Users\Poseidon\Desktop\Pratikler\Operatorler\obj\Debug\net5.0\Operatorler.csproj.AssemblyReference.cache
